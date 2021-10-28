@@ -1,4 +1,4 @@
-package com.pedrojpx.citiesapi;
+package com.pedrojpx.citiesapi.countries;
 
 import com.pedrojpx.citiesapi.countries.Country;
 import com.pedrojpx.citiesapi.countries.CountryRepository;
